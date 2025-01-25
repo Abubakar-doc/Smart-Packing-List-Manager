@@ -14,6 +14,13 @@
 
 ---
 
+## 📽️ Demo  
+
+Watch the app in action:  
+[Click here to watch the demo](assets/bandicam-2025-01-25.mp4)  
+
+---
+
 ## 🛠️ Built With  
 
 - **React**: Component-based design for a seamless user interface.  
