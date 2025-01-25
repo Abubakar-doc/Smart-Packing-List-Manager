@@ -10,14 +10,7 @@
 - **Mark as Packed**: Check off items as you pack them to stay organized.  
 - **Sorting Options**: Sort your list by input order, description, or packed status.  
 - **Clear List**: Remove all items in one click (with a confirmation prompt).  
-- **Packing Progress**: See how much of your list is packed with stats and progress indicators.  
-
----
-
-## 📽️ Demo  
-
-Watch the app in action:  
-[Click here to watch the demo](assets/bandicam-2025-01-25.mp4)  
+- **Packing Progress**: See how much of your list is packed with stats and progress indicators.   
 
 ---
 
